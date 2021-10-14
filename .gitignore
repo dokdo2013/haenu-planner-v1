@@ -1,0 +1,8 @@
+_before/
+new/
+test/
+test.php
+.idea/
+bootstrap/
+template/connect_information.php
+template/connect_information_data.php
